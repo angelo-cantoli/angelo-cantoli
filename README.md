@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @angelo-cantoli
+- 👀 I’m interested in Software developing and AI
+- 🌱 I’m currently learning Javascript, HTML and CSS
+- 📫 How to reach me: Via Alfredo Catalani 73
+- ⚡ Fun fact: ...
